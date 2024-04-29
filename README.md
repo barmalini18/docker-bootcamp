@@ -1,7 +1,8 @@
 # Docker Course Resources
 
 This is a family of projects to master conterization with Docker. 
-The final project is located in Workbook\05, it is a compolete online store that uses a number of microservices for its main functions.
+The final project is located in
+```workbook-starter-projects/05-starter-projects```, it is a compolete online store that uses a number of microservices for its main functions.
 Technologies used:
 Databases: Postgres, MongoDB
 Back-end languages: Golang, Python, Java, JavaScript
