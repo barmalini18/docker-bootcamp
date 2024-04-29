@@ -58,7 +58,7 @@ If you want to build the Docker image yourself, follow these steps:
 
 3. Run the following command to build the image:
    ```bash
-   docker build -t rslim087/ecommerce-ui .
+   docker build -t barmalini/ecommerce-ui .
    ```
 
    This command will build the Docker image using the provided Dockerfile and tag it as `rslim087/ecommerce-ui`.
