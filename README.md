@@ -11,5 +11,6 @@ Client: Node.js
 Conteinerization: Docker, Helm
 
 To run the final project use: 
-command - docker compose up
-In the folder 05-starter-project. Make sure the docker-compose.yml file is there, and check that Docker is active on your machine.
+command: 
+```docker compose up```
+In the folder ```05-starter-project```. Make sure the ```docker-compose.yml``` file is there, and check that Docker is active on your machine.
